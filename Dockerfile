@@ -1,4 +1,4 @@
-FROM java:8-jre
+FROM java:7-jre
 
 ENV USR_BASE /usr/local
 ENV AMQ_HOME $USR_BASE/apache-activemq
